@@ -1,0 +1,36 @@
+{
+    "workbench.colorTheme": "Sublime Monokai",
+    "workbench.activityBar.visible": true,
+    "editor.minimap.enabled": false,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "workbench.editor.enablePreview": true,
+    "editor.fontFamily": "Hack, monospace",
+    "explorer.confirmDelete": false,
+    "git.enableSmartCommit": true,
+    "files.watcherExclude": {
+      "**/.git/objects/**": true,
+      "**/.git/subtree-cache/**": true,
+      "**/node_modules/*/**": true,
+      "**/env/*/**": true
+    },
+    "workbench.statusBar.visible": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "python.showStartPage": false,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "workbench.commandPalette.preserveInput": true,
+    "files.maxMemoryForLargeFilesMB": 8096,
+    "editor.fontSize": 13.5,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "window.zoomLevel": 1,
+}
